@@ -86,7 +86,7 @@ h1.work_title {font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
 font-size: 0.9em;
 font-weight: lighter;
 letter-spacing: 0.5em;
-color: #fff;
+color: #280c70;
 text-align: center;
 text-transform:uppercase;
 		}		
@@ -127,8 +127,9 @@ opacity: 1;
   top:15%;
 }
 
-
-
+.work_title{
+  padding-top: -40px;
+}
 
 h1 {
 	font-size:28px;

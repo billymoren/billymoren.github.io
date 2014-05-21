@@ -74,13 +74,22 @@ font-weight: lighter;
  color: #fff;
 		}
 
-h1.gilsans {font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+h1.gilsans .work_title {font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
 font-size: 0.9em;
 font-weight: lighter;
 letter-spacing: 0.5em;
 color: #fff;
  text-transform:uppercase;
 		}
+
+h1.work_title {font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+font-size: 0.9em;
+font-weight: lighter;
+letter-spacing: 0.5em;
+color: #fff;
+text-align: center;
+text-transform:uppercase;
+		}		
 
 h2.gilsans {font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
 font-size: 0.9em;
